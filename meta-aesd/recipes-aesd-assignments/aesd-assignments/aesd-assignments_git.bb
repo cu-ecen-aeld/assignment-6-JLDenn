@@ -6,7 +6,7 @@ LICENSE = "CLOSED"
 LIC_FILES_CHKSUM = ""
 
 SRC_URI = "git://git@github.com/cu-ecen-aeld/assignments-3-and-later-JLDenn.git;protocol=ssh;branch=main"
-SRCREV = "0b10650ddc3b7ddec06553603f2a624a74b32d3e"
+SRCREV = "2b475c80ae868b36fcf253ddaa77ce666f55c6cd"
 
 
 PV = "1.0+git${SRCPV}"
